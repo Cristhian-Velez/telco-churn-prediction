@@ -24,9 +24,9 @@ El análisis termina con conclusiones y recomendaciones de negocio para la sigui
 
 ### Churn por tipo de contrato
 
-![Churn por tipo de contrato](02_modeling/images/README_contract_churn.png)
+![Churn por tipo de contrato](modeling/imagenes/README_contract_churn.png)
 
-![Churn por método de pago](02_modeling/images/README_payment_churn.png)
+![Churn por método de pago](modeling/imagenes/README_payment_churn.png)
 
 ### Churn por método de pago
 
